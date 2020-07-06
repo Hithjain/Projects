@@ -1,11 +1,5 @@
 # Projects
-Python Projects:
 
-
-1.Online registration form for college festivals/events
-
-
-2.Depression detector using Multiple Regression
 
 C Projects:
 
@@ -14,3 +8,12 @@ C Projects:
 
 
 2.Basic Computer Graphics Implementation
+
+
+Python Projects:
+
+
+1.Online registration form for college festivals/events
+
+
+2.Depression detector using Multiple Regression
