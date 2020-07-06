@@ -1,3 +1,4 @@
 # Projects
 Python Project
-Online registration form for college festivals/events
+1.Online registration form for college festivals/events
+2.Depression detector using Multiple Regression
